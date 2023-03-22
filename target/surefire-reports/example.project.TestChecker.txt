@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: example.project.TestChecker
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.033 s <<< FAILURE! - in example.project.TestChecker
+testCheckCollisionViolations  Time elapsed: 0.033 s  <<< ERROR!
+java.lang.NullPointerException: Cannot read field "snapshots" because "result" is null
+	at example.project.TestChecker.testCheckCollisionViolations(TestChecker.java:19)
+

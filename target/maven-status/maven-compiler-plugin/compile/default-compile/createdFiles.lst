@@ -1,0 +1,6 @@
+example/project/domain/Scenario.class
+example/project/Simulator.class
+example/project/domain/Snapshot.class
+example/project/Checker.class
+example/project/ADS.class
+example/project/domain/SimulationResult.class

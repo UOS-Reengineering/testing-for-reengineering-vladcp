@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: example.project.TestADS
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.011 s <<< FAILURE! - in example.project.TestADS
+testPrintPath  Time elapsed: 0.002 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: 
+	at example.project.TestADS.testPrintPath(TestADS.java:17)
+
+testPredict  Time elapsed: 0.007 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <[0, 0]> but was: <null>
+	at example.project.TestADS.testPredict(TestADS.java:27)
+
